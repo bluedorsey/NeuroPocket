@@ -23,20 +23,10 @@ Whether you need coding help, creative writing, or just a virtual brainstorming 
 ---
 
 ## 📱 UI Showcase
-*(Replace the `src` links below with the URLs of your actual screenshots. You can upload images directly to a GitHub issue or an `assets` folder in your repo to get the links.)*
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Home / Chat Screen</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="![Image](https://github.com/user-attachments/assets/5499da09-d534-4d38-abd3-e86565e5cfbf)">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/d7720f77-365d-4c79-8f44-46a7e5dd16ce)" width="30%" alt="Home / Chat Screen" /
+</p>
 
 ---
 
