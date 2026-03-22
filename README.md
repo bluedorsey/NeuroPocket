@@ -40,7 +40,7 @@ Whether you need coding help, creative writing, or just a virtual brainstorming 
 * ⚡ **Optimized Performance:** Utilizes quantized Gemma 2B weights for fast response times and low memory consumption on Android hardware.
 * 🎨 **Modern Native UI:** Built with Kotlin (Jetpack Compose / XML) for fluid animations, dynamic theming, and a buttery-smooth user experience.
 * 🔒 **Absolute Privacy:** Your prompts never leave your phone. What happens in NeuroPocket, stays in NeuroPocket.
-* 🌙 **Dark/Light Mode Support:** Seamlessly adapts to your system preferences.
+* 🌙 **Dark Mode Support:** Seamlessly adapts to your system preferences.
 
 ---
 
