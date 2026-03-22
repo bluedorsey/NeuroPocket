@@ -32,7 +32,7 @@ Whether you need coding help, creative writing, or just a virtual brainstorming 
     </tr>
     <tr>
       <td>
-        <img src="![Image](https://github.com/user-attachments/assets/d7720f77-365d-4c79-8f44-46a7e5dd16ce)">
+        <img src="![Image](https://github.com/user-attachments/assets/5499da09-d534-4d38-abd3-e86565e5cfbf)">
       </td>
     </tr>
   </table>
