@@ -158,5 +158,5 @@ Open the project in Android Studio and press **Run ▶**, or build via Gradle:
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/bluedorsey">bluedorsey</a></sub>
+  <sub>Built with ❤️ by GDGC AI/ML Team </a></sub>
 </div>
